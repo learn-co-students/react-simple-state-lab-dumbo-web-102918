@@ -11,7 +11,9 @@
     ]
   },
   "dependencies": {
+    "ajv": "^6.6.2",
     "mocha-multi": "^1.0.1",
+    "npm": "^6.5.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
@@ -34,5 +36,11 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
